@@ -1,0 +1,20 @@
+[
+    {
+        "item_name": "Laser Vision",
+        "quantity": 1,
+        "attribute": "+1 powers",
+        "description": "Fry your enemies to a crisp"
+    },
+    {
+        "item_name": "Shield & Blaster",
+        "quantity": 1,
+        "attribute": "+2 strength +1 power",
+        "description": "Block & shoot to save everyone!"
+    },
+    {
+        "item_name": "Super Suit",
+        "quantity": 1,
+        "attribute": "+3 armor",
+        "description": "Honey, where's my super suit?"
+    }
+]
