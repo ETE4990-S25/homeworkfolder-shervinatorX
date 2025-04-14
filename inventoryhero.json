@@ -1,9 +1,12 @@
 [
     {
+
         "item_name": "Laser Vision",
+        "Laser Vision":{
         "quantity": 1,
         "attribute": "+1 powers",
         "description": "Fry your enemies to a crisp"
+        }
     },
     {
         "item_name": "Shield & Blaster",
